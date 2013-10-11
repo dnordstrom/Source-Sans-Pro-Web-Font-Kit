@@ -5,7 +5,7 @@ Source Sans Pro is embedded into the `fonts.css` file using data-uri's, for silk
 
 To use the font, simply include the CSS file on your page (or copy its contents into your own stylesheet). The `font-family` is always `'Source Sans Pro'`, with different numeric `font-weight`'s.
 
-For production use, I recommend removing weights you don't use---the entire kit is nearly 1 MB in size.
+For production use, I recommend removing weights you don't use&mdash;the entire kit is nearly 1 MB in size.
 
 ## Credit
 
